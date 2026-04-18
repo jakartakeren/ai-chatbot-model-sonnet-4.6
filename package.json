@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "AI Chatbot powered by Claude Sonnet 4.6",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
